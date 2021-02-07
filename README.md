@@ -1,5 +1,5 @@
 # FlyLobby
-A plugin for Minecraft 0.15.10, where the player can only fly in the Lobby, through a permission!
+A plugin for Minecraft 0.15.xwhere the player can only fly in the Lobby, through a permission!
 
 # How to use?
 To use the plugin there is no secret, just have the pocketmine API `2.0.0` at hand, put the .phar version inside the `plugins` folder.
