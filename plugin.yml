@@ -1,0 +1,6 @@
+name: FlyLobby
+version: 1
+api: 2.0.0
+author: learxd[@XDLear]
+
+main: fly\Main
