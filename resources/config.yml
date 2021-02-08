@@ -1,0 +1,12 @@
+#Plugin made by LearXD for public use
+#Whole plugin configuration file:
+
+#Permission that will be necessary for the player to receive the automatic Fly in the lobby:
+fly-lobby-permission: fly.lobby
+
+#Worlds where the player will receive the fly as soon as he teleports
+#Leave 'default' for the server's default world (Lobby)
+#It is recommended to leave the name of the worlds all in minuscule, otherwise the pligin may fail!
+allowed-levels:
+  - default
+  - vip
